@@ -1,0 +1,54 @@
+{
+    "2015-SDD-HSC": [
+        {
+            "question": "A team has been contracted to create a software package.\n\nWhich of the following is the team’s most appropriate first step?",
+            "options": [
+                "Use a Gantt chart to plan the development",
+                "Look for useful modules in a software library",
+                "Interview the client for the system requirements",
+                "Create a prototype to show different interface styles"
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Which of the following is represented in a data flow diagram?",
+            "options": [
+                "The order in which processes occur",
+                "Where data originates and where it is stored",
+                "The sequence of tasks involved in completing a project",
+                "The decisions that are made when sub-modules are called"
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "It is legal to copy software and sell the copies if",
+            "options": [
+                "copyright is acknowledged.",
+                "the software is open source.",
+                "the software has been paid for.",
+                "the licence specifies that this is allowed."
+            ],
+            "correctAnswerIndex": 3
+        },
+        {
+            "question": "Some of the variables in a program are to be given new names.\n\nWhich documentation must also be modified?",
+            "options": [
+                "Storyboard",
+                "Data dictionary",
+                "System flowchart",
+                "Requirements definition"
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "How can the inclusivity of a computer program be enhanced?",
+            "options": [
+                "By replacing password characters with asterisks",
+                "By providing a range of methods for inputting data",
+                "By providing all the necessary library routines in a single DLL",
+                "By ensuring that all sources have been included in the acknowledgements"
+            ],
+            "correctAnswerIndex": 1
+        }
+    ]
+}

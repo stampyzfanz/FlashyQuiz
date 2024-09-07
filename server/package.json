@@ -1,0 +1,16 @@
+{
+  "name": "flashyquiz",
+  "version": "1.0.0",
+  "description": "HSC Software Design and Development Major Project: Creating a version of Kahoot that allows students to import their incorrect answers into spaced repetition software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Hanbury",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
